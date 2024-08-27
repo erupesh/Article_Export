@@ -1,0 +1,17 @@
+configparser==6.0.0
+lxml==4.8.0
+numpy==1.22.3
+opencv-python==4.5.5.64
+packaging==21.3
+pdf2image==1.16.3
+Pillow==9.5.0
+psutil==5.9.6
+PyMuPDF==1.23.3
+PyMuPDFb==1.23.3
+pyodbc==4.0.39
+pyparsing==3.0.8
+pypdf2==3.0.1
+pytesseract==0.3.9
+reportlab==3.6.12
+simplejson==3.19.1
+typing-extensions==4.8.0
