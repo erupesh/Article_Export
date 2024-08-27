@@ -1,4 +1,4 @@
-
+# Python version 3.8.0 
 """
 Overview:
     This project processes articles based on certain conditions and exports them.
